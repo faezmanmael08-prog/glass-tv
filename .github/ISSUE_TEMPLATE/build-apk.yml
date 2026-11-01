@@ -1,6 +1,6 @@
 name: Build Glass TV APK
 
-on:
+"on":
   workflow_dispatch:
   push:
     paths:
